@@ -1,0 +1,3 @@
+int32 vertex_from
+int32 vertex_to
+geometry_msgs/Point rel_pose
